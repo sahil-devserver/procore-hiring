@@ -48,6 +48,12 @@
 }
 
 .modal-header button.close {
-  color: white;
   opacity: 1;
+  border-radius: 50%;
+  float: right;
+  background-color: #fff;
+  color: orange;
+  border: none;
+  width: 30px;
+  font-size: 28px;
 }
