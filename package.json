@@ -47,5 +47,8 @@
   "homepage": "https://github.com/StephenGrider/ReduxSimpleStarter#readme",
   "directories": {
     "test": "test"
+  },
+  "engines": {
+    "node": "5.4.0"
   }
 }
