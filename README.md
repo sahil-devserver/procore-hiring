@@ -9,7 +9,7 @@ App is deployed  and can be viewed at : https://enigmatic-wildwood-66565.herokua
 
 Contact Keeper App in React and Redux
 
-To install and run locally:
+# To install and run locally:
 
 Clone repo
 
@@ -17,13 +17,13 @@ Run npm install
 
 Run npm start
 
-Features:-
+# Features:-
 
 1.) Clicking the +Add button opens the modal window.
 2.) The form is filled out and submitted from the modal window.
 3.) Upon submission, the table updates itself without needing to reload the page.
 
-Bonus Features Implemented:-
+# Bonus Features Implemented:-
 
 1.) The app leverages the use of both React and Redux. Redux handles the form data in the application state.
 
