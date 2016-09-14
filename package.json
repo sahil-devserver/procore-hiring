@@ -1,9 +1,12 @@
 {
-  "name": "redux-simple-starter",
+  "name": "scorekeeper",
   "version": "1.0.0",
   "description": "Simple starter package for Redux with React and Babel support",
   "main": "index.js",
-  "repository": "git@github.com:StephenGrider/ReduxSimpleStarter.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/StephenGrider/ReduxSimpleStarter.git"
+  },
   "scripts": {
     "dev": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
     "postinstall": "webpack -p",
@@ -37,5 +40,12 @@
     "react-redux": "^4.0.0",
     "react-router": "^2.0.1",
     "redux": "^3.0.4"
+  },
+  "bugs": {
+    "url": "https://github.com/StephenGrider/ReduxSimpleStarter/issues"
+  },
+  "homepage": "https://github.com/StephenGrider/ReduxSimpleStarter#readme",
+  "directories": {
+    "test": "test"
   }
 }
