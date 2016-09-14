@@ -1,0 +1,53 @@
+.container-fluid.content {
+  padding: 0;
+}
+
+.main-heading {
+	padding: 20px;
+  font-size: 24px;
+  color: white;
+  background-color: orange;
+  border-bottom: #E9E9E9 20px solid;
+}
+
+.btn-fa {
+  padding-right: 5px;
+}
+
+.add-contact {
+  float: right;
+  margin:20px 30px;
+}
+
+.modal-header {
+  background-color: #0275d8;
+  color: white;
+}
+
+.griddle .top-section {
+  width: 90%;
+  margin:0 auto;
+}
+
+.griddle-filter .filter-container {
+  width: 300px;
+  padding: 20px 20px 20px 0;
+}
+
+.griddle-container .table {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.griddle-container .table th , .griddle-container .table td{
+  border: 1px solid #eceeef;
+}
+
+.griddle-container .table th {
+  background: #eceeef;
+}
+
+.modal-header button.close {
+  color: white;
+  opacity: 1;
+}
