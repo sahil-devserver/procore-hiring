@@ -12,7 +12,9 @@ Contact Keeper App in React and Redux
 To install and run locally:
 
 Clone repo
+
 Run npm install
+
 Run npm start
 
 Features:-
