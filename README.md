@@ -20,7 +20,9 @@ Run npm start
 # Features:-
 
 1.) Clicking the +Add button opens the modal window.
+
 2.) The form is filled out and submitted from the modal window.
+
 3.) Upon submission, the table updates itself without needing to reload the page.
 
 # Bonus Features Implemented:-
